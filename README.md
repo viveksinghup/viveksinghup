@@ -2,7 +2,7 @@
 <a target="_blank" href="https://tiny.cc/rupeshjs"><img width="250" align="right"
         src="https://raw.githubusercontent.com/viveksinghup/viveksinghup/main/dev.gif"></a>
 
-### Frontend/UI Developer | Passionate UI/UI Designer | Tech Enthusiast !!
+### Frontend/UI Developer | Passionate UI/UI Designer | Tech Enthusiast  !!
 
 [![LinkedIn
 Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)][linkedin]
