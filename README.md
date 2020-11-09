@@ -12,7 +12,7 @@ Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d8
 [![Twitter
 Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DLakshmanGope&suffix=%20Followers)][twitter]
 
-Hi there 👋, My name is Vivek Singh. A self-taught, passionate and quick-learner Frontend developer 🚀 from India 🇮🇳 🌎. Love to work with new technologies and developing web applications 🔭 Currently, I am involved how to improve the performance of progressive web applications for better user experience. 🌱 I’m looking to apply skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.
+Hi there 👋, My name is Vivek Singh. A self-taught, passionate and quick-learner Frontend developer 🚀 from India 🇮🇳 🌎. Love to work with new technologies and developing web applications 🔭 Currently, I am involved how to improve the performance of progressive web applications for better user experience. 🌱 Looking to apply skills, quality-driven team in order to build better experiences on the web 🚀.
 
 <br />
 
